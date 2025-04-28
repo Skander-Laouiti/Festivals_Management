@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A408F98-1F29-403F-B13F-EAD4018A836B}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\mahox\\desktop\\gestionprogrammes\\am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A408F98-1F29-403F-B13F-EAD4018A836B}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5159C6CC-70D2-4F57-A639-9D7164064AC0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\mahox\\desktop\\gestionprogrammes\\am.infrastructure\\migrations\\20241118212845_creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5159C6CC-70D2-4F57-A639-9D7164064AC0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20241118212845_creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5159C6CC-70D2-4F57-A639-9D7164064AC0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\mahox\\desktop\\gestionprogrammes\\am.infrastructure\\migrations\\20241118212845_creation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5159C6CC-70D2-4F57-A639-9D7164064AC0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20241118212845_creation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5159C6CC-70D2-4F57-A639-9D7164064AC0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\mahox\\desktop\\gestionprogrammes\\am.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5159C6CC-70D2-4F57-A639-9D7164064AC0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5159C6CC-70D2-4F57-A639-9D7164064AC0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\mahox\\desktop\\gestionprogrammes\\am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5159C6CC-70D2-4F57-A639-9D7164064AC0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE95478-0D9D-498C-83D3-279A0AADF293}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\mahox\\desktop\\gestionprogrammes\\am.applicationcore\\domain\\festival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE95478-0D9D-498C-83D3-279A0AADF293}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\festival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE95478-0D9D-498C-83D3-279A0AADF293}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\mahox\\desktop\\gestionprogrammes\\am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE95478-0D9D-498C-83D3-279A0AADF293}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE95478-0D9D-498C-83D3-279A0AADF293}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\mahox\\desktop\\gestionprogrammes\\am.applicationcore\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE95478-0D9D-498C-83D3-279A0AADF293}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5159C6CC-70D2-4F57-A639-9D7164064AC0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\mahox\\desktop\\gestionprogrammes\\am.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5159C6CC-70D2-4F57-A639-9D7164064AC0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE95478-0D9D-498C-83D3-279A0AADF293}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\mahox\\desktop\\gestionprogrammes\\am.applicationcore\\domain\\artiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE95478-0D9D-498C-83D3-279A0AADF293}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\artiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241118212845_creation.cs",
+              "DocumentMoniker": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.Infrastructure\\Migrations\\20241118212845_creation.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241118212845_creation.cs",
+              "ToolTip": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.Infrastructure\\Migrations\\20241118212845_creation.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241118212845_creation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:08:03.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:07:53.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241118212845_creation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.Infrastructure\\Migrations\\20241118212845_creation.Designer.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241118212845_creation.Designer.cs",
+              "ToolTip": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.Infrastructure\\Migrations\\20241118212845_creation.Designer.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241118212845_creation.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:07:45.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:53:38.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AMContext.cs",
+              "DocumentMoniker": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.Infrastructure\\AMContext.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\AMContext.cs",
+              "ToolTip": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.Infrastructure\\AMContext.cs",
+              "RelativeToolTip": "AM.Infrastructure\\AMContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:53:25.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "AM.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:53:24.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.UI.Console\\Program.cs",
+              "RelativeDocumentMoniker": "AM.UI.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.UI.Console\\Program.cs",
+              "RelativeToolTip": "AM.UI.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:52:19.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.ApplicationCore\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.ApplicationCore\\Interfaces\\IService.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:53:41.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Festival.cs",
+              "DocumentMoniker": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.ApplicationCore\\Domain\\Festival.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Festival.cs",
+              "ToolTip": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.ApplicationCore\\Domain\\Festival.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Festival.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:52:14.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Artiste.cs",
+              "DocumentMoniker": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.ApplicationCore\\Domain\\Artiste.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Artiste.cs",
+              "ToolTip": "C:\\Users\\MAHOX\\Desktop\\GestionProgrammes\\AM.ApplicationCore\\Domain\\Artiste.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Artiste.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:44:37.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
